@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "cat.atm.tmobilitat",
+    "sha256_cert_fingerprints":
+    ["B4:A2:4A:23:82:C7:BE:DB:F4:16:02:4B:7F:21:EE:1D:BA:CF:E1:2C:B8:F1:44:E6:3D:44:49:D3:2D:3B:C5:9F"]
+  }
+}]
