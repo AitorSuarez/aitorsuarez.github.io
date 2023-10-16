@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "58CGV58YD5.cat.atm.tmobilitat", "58CGV58YD5.cat.atm.tmobilitat.dev", "58CGV58YD5.cat.atm.tmobilitat.test" ],
+             "components": [
+               {
+                  "/": "/*/web/t-mobilitatnfc/account_validation",
+                  "comment": "Account validation path"
+               }
+             ]
+           }
+       ]
+   }
+}
