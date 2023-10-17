@@ -11,5 +11,8 @@
              ]
            }
        ]
+   },
+   "webcredentials": {
+    "apps": [ "58CGV58YD5.cat.atm.tmobilitat", "58CGV58YD5.cat.atm.tmobilitat.dev", "58CGV58YD5.cat.atm.tmobilitat.test" ]
    }
 }
