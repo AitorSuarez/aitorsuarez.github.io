@@ -5,8 +5,8 @@
              "appIDs": [ "58CGV58YD5.cat.atm.tmobilitat", "58CGV58YD5.cat.atm.tmobilitat.dev", "58CGV58YD5.cat.atm.tmobilitat.test" ],
              "components": [
                {
-                  "/": "/*/account_validation/",
-                  "comment": "Account validation path"
+                  "/": "/*/web/t-mobilitat/link-mobil-preview",
+                  "comment": "Mobile link preview"
                }
              ]
            }
